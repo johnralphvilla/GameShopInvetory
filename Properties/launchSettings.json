@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "GameShopInvetory": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
